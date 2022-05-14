@@ -1,4 +1,4 @@
-# Android fstab file.
+# Android fstab file
 # The filesystem that contains the filesystem e2fsck binary (typically /system) cannot
 # specify 'check', and must come before any filesystems that do specify 'check'
 

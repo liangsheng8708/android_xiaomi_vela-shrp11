@@ -28,7 +28,7 @@ DON'T work:
 First checkout minimal twrp with omnirom tree:
 
 ```
-repo init --depth=1 -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git -b twrp-11
+repo init --depth=1 -u git://github.com/SHRP/bootable_recovery.git -b android-11.0
 repo sync
 ```
 
